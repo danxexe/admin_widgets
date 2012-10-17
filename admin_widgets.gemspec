@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = AdminWidgets::VERSION
   s.authors     = ["DanX~"]
   s.email       = ["danx.exe@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://www.mobvox.com.br"
+  s.summary     = "Awesome Admin Widgets"
+  s.description = "Super Awesome Admin Widgets"
 
   s.rubyforge_project = "admin_widgets"
 
